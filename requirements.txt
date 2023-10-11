@@ -1,0 +1,11 @@
+dill
+h5py
+Keras
+librosa
+matplotlib
+numpy
+pandas
+scikit-learn
+scipy
+seaborn
+tensorflow
